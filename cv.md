@@ -1,16 +1,11 @@
 # **Goris German**
 
 ## Contact information 
-
 * Location: Saint Petersburg, Russian Federation
 * E-mail: goris404g@gmail.com
 * GitHub: [Goris German](https://github.com/GorisGerman)
 * Discord: Goris German#9478
----
-
 ## About Me
-
----
 
 ## Skills and Proficiency
 beginner level
@@ -18,9 +13,10 @@ beginner level
 * HTML
 * CSS
 * Git
----
+
 ## Code Example
 Program for calculating the Ackermann function using recursion. C#
+
 ```
 int InputNumbers(string input)
 {
@@ -44,12 +40,11 @@ int AckermannFunction(int m, int n)
     else return AckermannFunction(m - 1, AckermannFunction(m, n - 1));
 }
 ```
----
 ## Education
-
 Emperor Alexander I St. Petersburg State Transport University: specialist’s degree in Economics and Management
 
----
+## Courses
+RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
 ## Languages
 * Russian - native
