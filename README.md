@@ -1,1 +1,1 @@
-# rsschool-cv
+https://GorisGerman.github.io/rsschool-cv/cv
