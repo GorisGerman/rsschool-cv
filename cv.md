@@ -5,7 +5,9 @@
 * E-mail: goris404g@gmail.com
 * GitHub: [Goris German](https://github.com/GorisGerman)
 * Discord: Goris German#9478
+
 ## About Me
+ I'm taking my first steps towards becoming a front-end developer. Although I don't have much programming experience, I'm always willing to learn new things that will help me reach my goal. I work well in a team but also on my own, I have good listening and communication skills. I am well organized and always plan ahead to make sure I manage my time well.
 
 ## Skills and Proficiency
 beginner level
@@ -13,6 +15,7 @@ beginner level
 * HTML
 * CSS
 * Git
+* Figma
 
 ## Code Example
 Program for calculating the Ackermann function using recursion. C#
@@ -50,5 +53,3 @@ RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 * Russian - native
 * English - C2 proficient (EF SET)
 [Certificate](https://www.efset.org/cert/VWP7cX)
-
-
